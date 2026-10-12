@@ -1,0 +1,22 @@
+{
+  "RT_GROUP_ICON": {
+    "APP": [
+      { "srctype": "ico", "src": "AppIcon.ico" }
+    ]
+  },
+  "RT_MANIFEST": {
+    "ID 1": [
+      { "srctype": "manifest", "src": "app.manifest" }
+    ]
+  },
+  "RT_VERSION": {
+    "ID 1": [
+      {
+        "srctype": "version",
+        "version": "1.0.0.0",
+        "product": "Bmp2Tif",
+        "copyright": "© 2026 Bmp2Tif"
+      }
+    ]
+  }
+}
